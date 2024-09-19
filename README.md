@@ -4,12 +4,6 @@
 - 📫 How to reach me https://t.me/Cash_Out_Gang1337
 - ⚡ Fun fact: opensourced.pro
 
-<!---
-OpensourcedPro/OpensourcedPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <br>
 
 
@@ -20,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/OpenSourcedAdmin")
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CashMoneyL33T)
 
 
 
