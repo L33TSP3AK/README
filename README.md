@@ -1,8 +1,8 @@
 - 👀 I’m interested in Cracking, Hacking, Pentesting
 - 🌱 I’m currently learning something new everyday
 - 💞️ I’m looking to collaborate on any of my Diamond projects
-- 📫 How to reach me https://t.me/Cash_Out_Gang1337
-- ⚡ Fun fact: opensourced.pro
+- 📫 How to reach me https://t.me/CashMoneyL33T
+- ⚡ Fun fact: I dont like people begging for handouts
 
 <br>
 
