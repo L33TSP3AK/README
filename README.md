@@ -17,6 +17,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CashMoneyL33T)
 
 
+![image](https://github.com/user-attachments/assets/c265286f-01eb-4581-a682-be89ba409c89)
 
 
 
